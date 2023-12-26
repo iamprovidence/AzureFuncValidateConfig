@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppNet8", "FunctionAppNet8\FunctionAppNet8.csproj", "{D8047780-EDD2-453A-B241-7BF4E8CCA9E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppNet6", "FunctionAppNet6\FunctionAppNet6.csproj", "{EBFE4856-4AC3-4D38-BF6F-473AA26F9E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8047780-EDD2-453A-B241-7BF4E8CCA9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8047780-EDD2-453A-B241-7BF4E8CCA9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8047780-EDD2-453A-B241-7BF4E8CCA9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8047780-EDD2-453A-B241-7BF4E8CCA9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFE4856-4AC3-4D38-BF6F-473AA26F9E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFE4856-4AC3-4D38-BF6F-473AA26F9E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFE4856-4AC3-4D38-BF6F-473AA26F9E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFE4856-4AC3-4D38-BF6F-473AA26F9E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FE8D9A9-8CAC-4EAE-8517-76F9B5B86D3C}
+	EndGlobalSection
+EndGlobal
